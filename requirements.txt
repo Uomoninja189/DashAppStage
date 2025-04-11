@@ -1,6 +1,4 @@
 dash==3.0.2
 pandas
 plotly
-os 
-re
 gunicorn
